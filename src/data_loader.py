@@ -10,7 +10,7 @@ import os
 import yfinance as yf
 import pandas as pd
 
-# ── pairs traded ──────────────────────────────────────────────────────────────
+# ------------- pairs traded -------------
 PAIRS = [
     ("GLD", "SLV"),   # gold / silver ETFs  
     ("KO",  "PEP"),   # Coca-Cola / Pepsi   
