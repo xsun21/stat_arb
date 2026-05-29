@@ -37,24 +37,7 @@ stat_arb/
 
 ---
 
-## Key Steps
 
-| Step | Module | What it does |
-|------|--------|--------------|
-| 1 | "cointegration.py" | Engle-Granger test, ADF on spread, OLS hedge ratio |
-| 2 | "signals.py" | Spread construction, rolling z-score |
-| 3 | "backtest.py" | Time-split pipeline, PnL tracking, cost deduction |
-| 4 | "performance.py" | Sharpe ratio, max drawdown, return distribution |
-| 5 | "validation.py" | Shuffle test, out-of-sample run |
-| 6 | "failure_modes.py" | Rolling hedge ratio, regime shift detection |
-
----
-
-## Quickstart
-
-```bash
-pip install -r requirements.txt
-python main.py
 ```
 
 
