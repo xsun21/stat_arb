@@ -23,7 +23,7 @@ stat_arb/
 ├── main.py                # Run full pipeline
 ├── requirements.txt
 └── README.md
-'''
+```
 
 ---
 
