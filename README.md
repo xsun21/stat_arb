@@ -17,8 +17,6 @@ stat_arb/
 │   ├── performance.py     # Sharpe, drawdown, return distribution
 │   ├── validation.py      # Shuffle tests, out-of-sample checks
 │   └── failure_modes.py   # Non-stationarity & regime shift analysis
-├── notebooks/
-│   └── full_analysis.ipynb
 ├── results/               # Saved plots and metrics
 ├── main.py                # Run full pipeline
 ├── requirements.txt
@@ -40,5 +38,4 @@ stat_arb/
 
 
 
----
 
