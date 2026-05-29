@@ -35,8 +35,6 @@ stat_arb/
 - **Entry:** |z| > 2.0 — **Exit:** |z| < 0.5
 - **Costs:** 0.1% transaction cost per trade
 
----
-
 
 ```
 
