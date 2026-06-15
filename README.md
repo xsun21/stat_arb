@@ -28,7 +28,7 @@ stat_arb/
 ## Strategy Overview
 
 - **Universe:** GLD/SLV (gold/silver ETFs) and KO/PEP (Coca-Cola/Pepsi)
-- **Data:** Daily close prices via "yfinance", 2010–2022 (train), 2023 (out-of-sample)
+- **Data:** Daily close prices via "yfinance", 2010-2022 (train), 2023 (out-of-sample)
 - **Signal:** Z-score of the cointegrated spread (rolling 60-day window)
 - **Entry:** |z| > 2.0 - **Exit:** |z| < 0.5
 - **Costs:** 0.1% transaction cost per trade
